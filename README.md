@@ -37,5 +37,5 @@ You can choose three firearms and one melee weapon to play this shooting game.
 |ESC         |Exit/结束游戏/ゲームをエンドする  |
 
 You can shoot the white cube to start game, enjoy!  
-你可以射击白色方块来开始游戏，尽情享受吧！
+你可以射击白色方块来开始游戏，尽情享受吧！  
 白いキューブを撃ってゲームを始めることができます。お楽しみください！
