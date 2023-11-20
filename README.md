@@ -23,6 +23,10 @@ You can choose three firearms and one melee weapon to play this shooting game.
 
 |Key|Action|
 |----|----|
+|1|AK47|
+|2|KATANA|
+|3|RIFLE|
+|4|PISTOL|
 |R           |Reload/装填/装弾  |
 |space       |Jump/跳跃/ジャンプ  |
 |WSAD        |Move/移动/移動  |
