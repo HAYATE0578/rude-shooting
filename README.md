@@ -21,14 +21,16 @@ You can choose three firearms and one melee weapon to play this shooting game.
 ## How to play/玩法/遊び方
 1——AK47    2——KATANA    3——RIFLE    4——PISTOL  
 
-R           |Reload/装填/装弾  
-space       |Jump/跳跃/ジャンプ  
-WSAD        |Move/移动/移動  
-leftShift   |Walk/步行/歩行  
-leftMouse   |Attack/攻击/攻撃  
-rightMouse  |Scope/开镜/スコープ  
-P           |Restart/重新开始/ゲーム再開  
-ESC         |Exit/结束游戏/ゲームをエンドする  
+|Key|Action|
+|----|----|
+|R           |Reload/装填/装弾  |
+|space       |Jump/跳跃/ジャンプ  |
+|WSAD        |Move/移动/移動  |
+|leftShift   |Walk/步行/歩行  |
+|leftMouse   |Attack/攻击/攻撃  |
+|rightMouse  |Scope/开镜/スコープ  |
+|P           |Restart/重新开始/ゲーム再開  |
+|ESC         |Exit/结束游戏/ゲームをエンドする  |
 
 You can shoot the white cube to start game, enjoy!  
 你可以射击白色方块来开始游戏，尽情享受吧！
